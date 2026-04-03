@@ -1,2 +1,11 @@
 # Organizador-de-Atividades
-Projeto simples de um organizador de tarefas utilizando a linguagem de programação Python e sua biblioteca padrão Tkinter.
+-- Funcionalidades --
+- Adicionar tarefas
+- Marcar tarefas como concluídas (apenas uma vez)
+- Excluir tarefas
+- Visualizar lista de atividades
+- Interface moderna com tema escuro
+- Ícone personalizado na aplicação
+-- Tecnologias utilizadas --
+Python
+Tkinter (biblioteca padrão do Python)
